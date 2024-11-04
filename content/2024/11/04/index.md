@@ -1,5 +1,5 @@
 ---
-title: TextOverflow.StartEllipsis と TextOverflow.MiddleEllipsis が Compose 1.8.0 からサポートされていた
+title: TextOverflow.StartEllipsis と TextOverflow.MiddleEllipsis が Compose 1.8.0-alpha02 からサポートされていた
 date: 2024-11-04T17:22:31+09:00
 draft: false
 tags:
